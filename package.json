@@ -12,6 +12,8 @@
   },
   "license": "MIT-0",
   "dependencies": {
-    "express": "^4.22.2"
+    "express": "^4.22.2",
+    "lodash": "4.17.15"
+  }
   }
 }
